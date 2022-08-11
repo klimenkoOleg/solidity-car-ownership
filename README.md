@@ -1,4 +1,4 @@
-# solidity-car-ownership
+# Solidity Car Ownership Smart Contract
 Smart Contract in Solidity language for Car Ownership with Escrow account
 
 This code will use will use Open Zeppelin smart contracts. 
